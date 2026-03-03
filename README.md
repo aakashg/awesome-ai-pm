@@ -1,5 +1,9 @@
 # Awesome AI PM
 
+[![Stars](https://img.shields.io/github/stars/aakashg/awesome-ai-pm?style=flat-square)](https://github.com/aakashg/awesome-ai-pm/stargazers)
+[![License](https://img.shields.io/github/license/aakashg/awesome-ai-pm?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/aakashg/awesome-ai-pm?style=flat-square)](https://github.com/aakashg/awesome-ai-pm/commits/main)
+
 A curated guide to AI product management. Frameworks, tools, skills, and resources for PMs building AI products.
 
 Built and maintained by [Aakash Gupta](https://www.aakashg.com) | [Product Growth Newsletter](https://www.news.aakashg.com)
@@ -413,7 +417,7 @@ AI PM is the fastest-growing specialization in product management. The role sits
 
 ## Contributing
 
-Found a resource that should be here? Open a PR or issue.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on suggesting resources.
 
 ---
 
