@@ -420,3 +420,23 @@ Found a resource that should be here? Open a PR or issue.
 Built and maintained by [Aakash Gupta](https://www.aakashg.com)
 
 [Product Growth Newsletter](https://www.news.aakashg.com) | [The Growth Podcast](https://www.news.aakashg.com) | [LinkedIn](https://www.linkedin.com/in/aagupta)
+
+## AI Ethics for PMs
+
+### Why PMs Own This
+
+Engineers build the system. PMs decide what the system should do. Every AI ethics issue traces back to a product decision: what data to use, what behavior to allow, what guardrails to set.
+
+### Key Principles
+
+- **Transparency**: Users should know when they're interacting with AI and what data it uses
+- **Fairness**: Test for bias across user segments before launch, not after complaints
+- **Privacy**: Collect only the data you need. Explain why you need it. Let users opt out.
+- **Accountability**: When AI makes a mistake, the PM owns the communication and the fix
+- **Human override**: Users should always be able to override or correct AI decisions
+
+### Resources
+
+- Google Responsible AI Practices — Practical guidelines for AI product teams
+- Microsoft Responsible AI Standard — Framework used at enterprise scale
+- AI Incident Database — Real examples of AI failures to learn from
