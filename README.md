@@ -440,3 +440,15 @@ Engineers build the system. PMs decide what the system should do. Every AI ethic
 - Google Responsible AI Practices — Practical guidelines for AI product teams
 - Microsoft Responsible AI Standard — Framework used at enterprise scale
 - AI Incident Database — Real examples of AI failures to learn from
+
+## Communities
+
+| Community | Platform | Focus |
+|-----------|----------|-------|
+| Product Growth | Newsletter | AI PM deep dives and career advice |
+| Lenny's Community | Slack | General product management |
+| AI Product Institute | Community | AI-specific PM resources |
+| MLOps Community | Slack | ML engineering and operations |
+| Latent Space | Discord | AI engineering and product |
+| Product Hunt | Web | New AI product launches |
+| r/ProductManagement | Reddit | PM discussions and career advice |
