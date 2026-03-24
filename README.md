@@ -452,3 +452,25 @@ Engineers build the system. PMs decide what the system should do. Every AI ethic
 | Latent Space | Discord | AI engineering and product |
 | Product Hunt | Web | New AI product launches |
 | r/ProductManagement | Reddit | PM discussions and career advice |
+
+## Glossary
+
+Essential AI terms every PM should know.
+
+| Term | Definition | PM Relevance |
+|------|-----------|-------------|
+| **Fine-tuning** | Training a base model on domain-specific data | Expensive but improves quality. PM decides if it's worth the investment. |
+| **RAG** | Pulling relevant documents into context before generating | Cheaper alternative to fine-tuning for knowledge-based features. |
+| **Hallucination** | Model generating plausible but false information | Your #1 product risk. Design detection and mitigation. |
+| **Embedding** | Numeric representation of text for similarity comparison | Powers search, recommendations, clustering features. |
+| **Token** | Unit of text processing (~4 characters in English) | Directly affects cost and latency. Track usage per feature. |
+| **Context window** | Maximum text the model can process at once | Determines what features are possible (e.g., summarizing long docs). |
+| **Temperature** | Parameter controlling output randomness | Low = predictable (data extraction). High = creative (brainstorming). |
+| **Inference** | Running a trained model to generate output | Your marginal cost per user interaction. |
+| **Prompt engineering** | Crafting inputs to get desired outputs | The PM's primary tool for shaping AI behavior. |
+| **Eval** | Automated test of AI output quality | Replaces manual QA for probabilistic systems. |
+| **RLHF** | Training with human feedback to align behavior | How models learn to be helpful vs harmful. |
+| **Multimodal** | Models that handle text, images, audio, video | Expands what AI features can do (image analysis, voice). |
+| **Agent** | AI that can take actions (call APIs, execute code) | Shifts product from "tool" to "assistant." |
+| **MCP** | Model Context Protocol — standard for connecting AI to tools | The new API standard. If your product doesn't support it, agents can't use it. |
+| **Guardrails** | Rules constraining AI behavior | PMs define what the AI can/cannot do. |
