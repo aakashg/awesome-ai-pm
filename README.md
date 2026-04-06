@@ -474,3 +474,28 @@ Essential AI terms every PM should know.
 | **Agent** | AI that can take actions (call APIs, execute code) | Shifts product from "tool" to "assistant." |
 | **MCP** | Model Context Protocol — standard for connecting AI to tools | The new API standard. If your product doesn't support it, agents can't use it. |
 | **Guardrails** | Rules constraining AI behavior | PMs define what the AI can/cannot do. |
+
+## Case Studies
+
+Real examples of AI product decisions and their outcomes.
+
+### Notion AI
+- **Decision**: Embed AI inline in the editor instead of a separate tool
+- **Why it worked**: Zero context-switching. Users try it where they already write.
+- **Lesson**: Inline > standalone for AI features that augment existing workflows.
+
+### Cursor
+- **Decision**: Tab-based code completion with multi-line predictions
+- **Why it worked**: Matched the developer's existing flow (Tab to accept)
+- **Challenge**: Power users burned through flat-rate plans. Had to switch to credit-based pricing.
+- **Lesson**: Your best users will be your most expensive users in AI products.
+
+### Canva Magic Studio
+- **Decision**: AI features available on free tier with limited usage
+- **Why it worked**: Bottom-up adoption. Free users upgrade after hitting limits.
+- **Lesson**: Free AI features drive trial. Usage limits drive conversion.
+
+### GitHub Copilot
+- **Decision**: Side-panel chat + inline suggestions (two interaction modes)
+- **Why it worked**: Different tasks need different interaction patterns
+- **Lesson**: One AI interface doesn't fit all use cases. Design for the task, not the technology.
