@@ -499,3 +499,15 @@ Real examples of AI product decisions and their outcomes.
 - **Decision**: Side-panel chat + inline suggestions (two interaction modes)
 - **Why it worked**: Different tasks need different interaction patterns
 - **Lesson**: One AI interface doesn't fit all use cases. Design for the task, not the technology.
+
+## Conferences
+
+| Conference | Focus | When | Format |
+|-----------|-------|------|--------|
+| AI Product Summit | AI product management | Annual, Spring | In-person + Virtual |
+| Mind the Product | Product management (AI track) | Multiple per year | In-person |
+| ProductCon | PM community | Quarterly | Virtual |
+| NeurIPS | ML/AI research | December | In-person |
+| Google I/O | Google AI products | May | In-person + Virtual |
+| AWS re:Invent | Cloud AI/ML services | November | In-person |
+| Anthropic Sessions | Claude and AI safety | Periodic | Virtual |
