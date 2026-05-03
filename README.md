@@ -511,3 +511,14 @@ Real examples of AI product decisions and their outcomes.
 | Google I/O | Google AI products | May | In-person + Virtual |
 | AWS re:Invent | Cloud AI/ML services | November | In-person |
 | Anthropic Sessions | Claude and AI safety | Periodic | Virtual |
+
+## Courses
+
+| Course | Provider | Focus | Level |
+|--------|----------|-------|-------|
+| AI Product Management | Pendo / Todd Olson | AI PM skills for working PMs | Intermediate |
+| Product Management for AI | Duke (Coursera) | Foundation of AI PM | Beginner |
+| Machine Learning for Product Managers | Pragmatic Institute | Technical foundations | Beginner |
+| Full Stack Deep Learning | UC Berkeley | Building ML products end-to-end | Advanced |
+| Reforge AI & ML for Product | Reforge | AI strategy for growth | Intermediate |
+| LLM Bootcamp | The Full Stack | Building with LLMs | Intermediate |
