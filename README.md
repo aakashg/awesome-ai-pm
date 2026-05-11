@@ -522,3 +522,20 @@ Real examples of AI product decisions and their outcomes.
 | Full Stack Deep Learning | UC Berkeley | Building ML products end-to-end | Advanced |
 | Reforge AI & ML for Product | Reforge | AI strategy for growth | Intermediate |
 | LLM Bootcamp | The Full Stack | Building with LLMs | Intermediate |
+
+## Weekly Reading List
+
+A rotating selection of the best AI PM content. Updated regularly.
+
+### Foundational
+- [How to Build AI Products](https://www.news.aakashg.com) — Complete framework from problem to launch
+- [AI Product Management is Different](https://www.news.aakashg.com) — Why traditional PM frameworks break with AI
+
+### Current
+- [How to Price AI Products](https://www.news.aakashg.com/p/how-to-price-ai-products) — 6 pricing models for AI
+- [Context Engineering Guide](https://www.news.aakashg.com) — How to give AI the right information
+- [AI Evals Explained](https://www.news.aakashg.com) — Testing AI outputs systematically
+
+### Timeless
+- [Andrej Karpathy: Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) — The original essay on neural net programming
+- [Google's Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml) — Still the best engineering guide for ML products
