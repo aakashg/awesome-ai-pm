@@ -539,3 +539,15 @@ A rotating selection of the best AI PM content. Updated regularly.
 ### Timeless
 - [Andrej Karpathy: Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35) — The original essay on neural net programming
 - [Google's Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml) — Still the best engineering guide for ML products
+
+## Templates
+
+Ready-to-use templates for AI PM work. All available as repos you can fork.
+
+| Template | Description | Link |
+|----------|-------------|------|
+| PM Prompt Library | 5 battle-tested prompts for PM tasks | [GitHub](https://github.com/aakashg/pm-prompt-library) |
+| Claude Code Setup | CLAUDE.md + PRD writer skill | [GitHub](https://github.com/aakashg/pm-claude-code-setup) |
+| Claude Skills | 5 drop-in skills for Claude Code | [GitHub](https://github.com/aakashg/pm-claude-skills) |
+| PRD Template | Structured PRD with hypothesis and metrics | [In Claude Code Setup](https://github.com/aakashg/pm-claude-code-setup/blob/main/templates/prd-template.md) |
+| Launch Plan | GTM template for feature launches | [In Claude Code Setup](https://github.com/aakashg/pm-claude-code-setup/blob/main/templates/launch-plan.md) |
