@@ -551,3 +551,13 @@ Ready-to-use templates for AI PM work. All available as repos you can fork.
 | Claude Skills | 5 drop-in skills for Claude Code | [GitHub](https://github.com/aakashg/pm-claude-skills) |
 | PRD Template | Structured PRD with hypothesis and metrics | [In Claude Code Setup](https://github.com/aakashg/pm-claude-code-setup/blob/main/templates/prd-template.md) |
 | Launch Plan | GTM template for feature launches | [In Claude Code Setup](https://github.com/aakashg/pm-claude-code-setup/blob/main/templates/launch-plan.md) |
+
+### Evaluation & Testing
+
+| Tool | What It Does | PM Relevance |
+|------|-------------|-------------|
+| **Braintrust** | LLM eval platform | Track AI output quality over time |
+| **Humanloop** | Prompt management and evaluation | Version and test prompts systematically |
+| **Weights & Biases** | ML experiment tracking | Monitor model performance |
+| **Arize** | ML observability | Catch model degradation in production |
+| **Patronus AI** | AI safety testing | Test for hallucinations and harmful outputs |
