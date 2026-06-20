@@ -561,3 +561,25 @@ Ready-to-use templates for AI PM work. All available as repos you can fork.
 | **Weights & Biases** | ML experiment tracking | Monitor model performance |
 | **Arize** | ML observability | Catch model degradation in production |
 | **Patronus AI** | AI safety testing | Test for hallucinations and harmful outputs |
+
+## AI Product Frameworks
+
+### The AI Feature Decision Tree
+
+1. **Is there enough data?** → No: Don't build it. Collect data first.
+2. **Is the task well-defined?** → No: Start with a human-in-the-loop approach.
+3. **What's the cost of being wrong?** → High: Add human review. Low: Automate fully.
+4. **How often does this happen?** → Rarely: Don't automate. Often: Strong ROI for AI.
+5. **Can users correct mistakes easily?** → No: Add correction UX before launching.
+
+### The AI Product Maturity Model
+
+| Level | Description | Example |
+|-------|-------------|---------|
+| **0: Manual** | Humans do everything | Support agent reads every ticket |
+| **1: Assisted** | AI suggests, human decides | AI drafts reply, agent edits and sends |
+| **2: Supervised** | AI acts, human reviews | AI sends reply, agent reviews a sample |
+| **3: Autonomous** | AI acts, human handles exceptions | AI resolves tickets, human handles escalations |
+| **4: Adaptive** | AI improves from its own actions | AI learns from resolution patterns to improve |
+
+Most features should launch at Level 1 and graduate to Level 2-3 based on trust metrics.
