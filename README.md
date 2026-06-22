@@ -685,3 +685,5 @@ Before launching any AI feature, verify:
 3. Do you need it this month? → Buy
 4. Does data privacy prevent sending data externally? → Build
 5. Is your team <5 engineers? → Buy
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
