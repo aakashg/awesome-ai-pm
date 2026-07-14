@@ -583,3 +583,29 @@ Ready-to-use templates for AI PM work. All available as repos you can fork.
 | **4: Adaptive** | AI improves from its own actions | AI learns from resolution patterns to improve |
 
 Most features should launch at Level 1 and graduate to Level 2-3 based on trust metrics.
+
+### Interview Preparation Resources
+
+| Resource | Type | Focus |
+|----------|------|-------|
+| [AI PM Interview Breakdown](https://www.news.aakashg.com) | Guide | Question-type analysis with prep strategies |
+| [AI Product Design Cases](https://www.news.aakashg.com) | Guide | How to handle AI-specific design cases |
+| [AI Success Metrics](https://www.news.aakashg.com) | Guide | Framework for AI feature metrics questions |
+| [PM Interview Prep](https://www.landpmjob.com) | Course | Complete PM interview preparation system |
+
+### Sample AI PM Interview Questions
+
+**Product Sense:**
+- "How would you add AI to Google Maps?"
+- "Design an AI feature for a grocery delivery app"
+- "Should Spotify build an AI DJ? How would you approach it?"
+
+**Metrics:**
+- "How would you measure the success of ChatGPT's memory feature?"
+- "What metrics would you track for an AI-powered search?"
+- "Your AI feature has high adoption but NPS is dropping. What do you investigate?"
+
+**Behavioral:**
+- "Tell me about a time you shipped an AI feature that didn't work as expected"
+- "How do you prioritize AI features against non-AI features?"
+- "Describe a situation where you had to make a tradeoff between AI accuracy and user experience"
