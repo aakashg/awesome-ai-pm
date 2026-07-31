@@ -609,3 +609,26 @@ Most features should launch at Level 1 and graduate to Level 2-3 based on trust 
 - "Tell me about a time you shipped an AI feature that didn't work as expected"
 - "How do you prioritize AI features against non-AI features?"
 - "Describe a situation where you had to make a tradeoff between AI accuracy and user experience"
+
+## Data Strategy for AI PMs
+
+### The Data Flywheel
+
+Every AI product needs a data flywheel: usage generates data → data improves the model → better model drives more usage.
+
+**PM responsibilities:**
+1. **Design the collection**: What data do we need? How do we get it ethically?
+2. **Ensure quality**: Garbage in = garbage out. Data quality is a product feature.
+3. **Close the loop**: How does user feedback get back to the model?
+4. **Measure the flywheel**: Is the model actually improving from usage data?
+
+### Data Considerations Checklist
+
+- [ ] What data do we need to power this feature?
+- [ ] Do we have this data today? If not, how do we collect it?
+- [ ] Is the data high enough quality? (Complete, accurate, unbiased)
+- [ ] Do we have user consent to use this data?
+- [ ] How do we handle data from different regions? (GDPR, CCPA)
+- [ ] What happens if the data pipeline breaks?
+- [ ] How do we detect and correct data bias?
+- [ ] Is there a feedback mechanism for users to correct AI mistakes?
