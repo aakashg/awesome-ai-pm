@@ -409,6 +409,7 @@ AI PM is the fastest-growing specialization in product management. The role sits
 | **Cursor** | AI code editor for prototyping |
 | **Claude Code** | Terminal AI for PM workflows |
 | **NotebookLM** | Research and synthesis from your sources |
+| **IdeaHunter** | Demand-backed startup idea and market research |
 | **Gamma** | AI presentations and documents |
 | **Granola** | AI meeting notes |
 | **Amplitude / Mixpanel** | Product analytics with AI features |
