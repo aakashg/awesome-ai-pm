@@ -632,3 +632,34 @@ Every AI product needs a data flywheel: usage generates data → data improves t
 - [ ] What happens if the data pipeline breaks?
 - [ ] How do we detect and correct data bias?
 - [ ] Is there a feedback mechanism for users to correct AI mistakes?
+
+### Responsible AI Checklist for PMs
+
+Before launching any AI feature, verify:
+
+**Fairness**
+- [ ] Tested across demographic groups for disparate performance
+- [ ] Training data reviewed for representation bias
+- [ ] Edge cases tested for vulnerable populations
+
+**Transparency**
+- [ ] Users know when they're interacting with AI
+- [ ] Users can see why the AI made a recommendation (explainability)
+- [ ] AI limitations are clearly communicated
+
+**Privacy**
+- [ ] Data usage complies with privacy regulations (GDPR, CCPA)
+- [ ] Users can opt out of AI features
+- [ ] PII handling follows data minimization principles
+- [ ] Model training data doesn't include user data without consent
+
+**Safety**
+- [ ] Content filters tested for harmful outputs
+- [ ] Hallucination rate measured and within acceptable limits
+- [ ] Adversarial testing completed (prompt injection, jailbreaking)
+- [ ] Human escalation path exists for high-stakes decisions
+
+**Accountability**
+- [ ] Clear owner for AI feature behavior
+- [ ] Incident response plan for AI failures
+- [ ] Regular audit schedule for AI outputs
