@@ -663,3 +663,21 @@ Before launching any AI feature, verify:
 - [ ] Clear owner for AI feature behavior
 - [ ] Incident response plan for AI failures
 - [ ] Regular audit schedule for AI outputs
+
+### Build vs Buy for AI Features
+
+| Factor | Build | Buy (API) | Buy (Platform) |
+|--------|-------|-----------|---------------|
+| **Time to market** | Months | Days-weeks | Weeks |
+| **Customization** | Full control | Prompt-level | Config-level |
+| **Cost at low volume** | High (infra + team) | Low (pay per use) | Medium (subscription) |
+| **Cost at high volume** | Lower per unit | Can get expensive | Predictable |
+| **Data privacy** | Full control | Data sent to provider | Depends on vendor |
+| **Switching cost** | N/A (you own it) | Medium (API changes) | High (platform lock-in) |
+
+**Decision framework:**
+1. Is this a core differentiator? → Build
+2. Is this commodity AI? (Summarization, basic chat) → Buy API
+3. Do you need it this month? → Buy
+4. Does data privacy prevent sending data externally? → Build
+5. Is your team <5 engineers? → Buy
