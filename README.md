@@ -378,6 +378,7 @@ AI PM is the fastest-growing specialization in product management. The role sits
 | [AI by Aakash](https://www.aibyaakash.com) | AI industry analysis |
 | [Lenny's Newsletter](https://www.lennysnewsletter.com) | Product management and growth |
 | [The Batch (Andrew Ng)](https://www.deeplearning.ai/the-batch/) | AI industry news |
+| [AI Weekly](https://aiweekly.co/) | AI industry signals from experts, companies, research, funding, and policy |
 
 ### Podcasts
 
