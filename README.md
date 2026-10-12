@@ -172,6 +172,7 @@ Before you set any price, pull the cost distribution. What does your P10 user co
 ### Resources
 
 - [How to Price AI Products: The Complete Guide](https://www.news.aakashg.com/p/how-to-price-ai-products) — 6 models, case studies, and a decision tree for AI pricing
+- [Snipd: Why Listeners Pay When Podcasts Are Free](https://product.ferryman.app/en/articles/2026-10-01-snipd/) — Case study of free podcast listening, subscription processing allowances, and paid AI knowledge workflows
 
 ---
 
